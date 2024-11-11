@@ -544,6 +544,85 @@
                  "width":158.176,
                  "x":581.557799826797,
                  "y":1012.47591302116
+                }, 
+                {
+                 "height":70.8047,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":465.912,
+                 "y":617.09765
+                }, 
+                {
+                 "height":70.8047,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":789.662,
+                 "y":773.34765
+                }, 
+                {
+                 "height":70.8047,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":723.412,
+                 "y":359.59765
+                }, 
+                {
+                 "height":70.8047,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":99.662,
+                 "y":517.09765
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -666,7 +745,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":34,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
